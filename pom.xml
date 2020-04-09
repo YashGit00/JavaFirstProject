@@ -5,10 +5,22 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>JavaFirstProject</groupId>
+  <groupId>com.sapient.week1</groupId>
   <artifactId>JavaFirstProject</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   
-  <name>Replace for JavaFirstProject</name>
+  <name>Publicis Sapient JavaFirstProject</name>
+
+  <description>
+  	This is first PS Java Project.
+  </description>
+
+  <inceptionYear>2020</inceptionYear>
+
+	<!-- <build>
+		<finalName>JavaProject</finalName>
+	</build>
+	 -->
 </project>
+
